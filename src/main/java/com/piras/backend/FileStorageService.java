@@ -1,4 +1,4 @@
-package com.piras.backend.service;
+package com.piras.backend;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
